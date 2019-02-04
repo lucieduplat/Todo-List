@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  background-color: #051e66;
+  padding: 5%;
+  margin: 0;
+}
+
+form {
+  margin-top: 5%;
+  width: 100%;
+  margin-bottom: 2%;
+  padding: 5%;
+}
+
+.addItem {
+  font-weight: bold;
+  font-size: 30px;
+  font-style: italic;
+}
+
+.deleteButton {
+  margin-left: 48%;
+  margin-top: 1%;
+  background-color: #cee1ff;
+  font-weight: bold;
+}
